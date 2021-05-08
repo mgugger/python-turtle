@@ -27,6 +27,7 @@ def schneeflocke_ast(s):
   for i in range(4):
     schneeflocke_spitze(s)
 
+# Teilaufgabe 3
 def schneeflocke(s):
   """
   Die Methode schneeflocke(s) zeichnet eine Schneeflocke mit Groesse s, bestehend aus 8 Aesten.
@@ -35,7 +36,7 @@ def schneeflocke(s):
     schneeflocke_ast(s)
     # ihr Code
     
-# Teilaufabe 3
+# Bonusaufgabe
 def stern(s):
   """ 
   Die Methode stern(s) zeichnet einen Stern mit Groesse s.
