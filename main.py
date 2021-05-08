@@ -33,8 +33,8 @@ def schneeflocke(s):
   """
   for i in range(8):
     schneeflocke_ast(s)
-    t.left(45)
-
+    # ihr Code
+    
 # Teilaufabe 3
 def stern(s):
   """ 
